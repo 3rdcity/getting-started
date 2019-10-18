@@ -11,6 +11,4 @@ __Learn about Open Source__
 * Before working on a project checkout the Contributing.md file. It will explain where you can: find issues, ask questions, read documentation,and how to submit changes.
 
 ###### Other Useful Things to Know
-* [Club Resources] is a great place to find information about the club and different technologies we use. It's open source, so feel free to add to it!
-
- [Club Resources]:https://github.com/terkelg/awesome-creative-coding
+* Club Resources is a great place to find information about the club and different technologies we use. It's open source, so feel free to add to it! Open Resources.md file for resources.
