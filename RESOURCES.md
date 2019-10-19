@@ -6,3 +6,6 @@
 
 + For React js library, check out [reactjs.org] It has all the essentials you need to start your React journey
 [reactjs.org]:https://reactjs.org/
+
+Check out [alligator.io] It has all the essentials you need to start on Frontend Web Development. The site covers many frameworks
+[alligator.org]:https://alligator.io
